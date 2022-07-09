@@ -1,5 +1,5 @@
 ***************************************************************
-* CS302-Python-2020-Group 38
+* CS302-Python-Group 38
 * by Michelle Lu mlu415@aucklanduni.ac.nz 
 * and Matthew Wu fwu277@aucklanduni.ac.nz
 *
