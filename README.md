@@ -2,6 +2,7 @@
 * CS302-Python-Group 38
 * by Michelle Lu mlu415@aucklanduni.ac.nz 
 * and Matthew Wu fwu277@aucklanduni.ac.nz
+*THIS IS A REUPLOAD FROM AN EARLIER PROJECT
 *
 ***************************************************************
 RUNNING THE CODE:
